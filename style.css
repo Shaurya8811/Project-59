@@ -1,0 +1,29 @@
+body {
+text-align: center;
+  baground-colour:linear-gradient ( #270ee6 0%, #18f211 100%, )  ;
+  baground-repeat:no repeat;
+}
+
+h1{
+  text-shadow: 2px 2px #4fafc2;
+ font-size:20px; 
+}
+
+#bio{
+ padding:20px;
+  font-size:18;
+  text-align:center; 
+}
+
+img{
+  
+  border-radius:50%
+    width:100%
+}
+.menu{
+    font-family:'courgette' cursive;
+        float:right;
+        top:10px;
+    right:30px;
+    color:black;
+}
